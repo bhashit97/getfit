@@ -1,0 +1,35 @@
+body{
+
+text-decoration-color: #050002;
+}
+.background{
+
+ -webkit-filter: opacity(100%);filter: opacity(30%);
+
+
+position: absolute;
+z-index: -1;
+
+
+}
+
+ul{
+background-color: #71c1ed;
+list-style-type: none;
+
+    margin: 5px;
+    padding: 0;
+    overflow: hidden;
+    align-items: center;
+    border: dashed 2px black;
+
+
+}
+li{
+   float: left;
+   padding: 10px;
+   margin-left: : 2em;
+   margin-right: 5em;
+   text-decoration: none;
+
+}
